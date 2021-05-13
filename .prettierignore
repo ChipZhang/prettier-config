@@ -1,0 +1,2 @@
+# ignore dot folders but not dot files
+.*/
