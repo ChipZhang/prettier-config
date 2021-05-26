@@ -1,6 +1,6 @@
 {
 	"name": "@chipzhang/prettier-config",
-	"version": "0.1.1",
+	"version": "0.1.2",
 	"description": "A Prettier shareable config featuring modern code style and ease of typing",
 	"keywords": [
 		"styleguide",
@@ -26,6 +26,7 @@
 	"scripts": {
 		"prettier": "prettier --write ."
 	},
+	"dependencies": {},
 	"devDependencies": {
 		"prettier": "2.3.0"
 	}

@@ -9,12 +9,7 @@ insert_final_newline = true
 trim_trailing_whitespace = true
 charset = utf-8
 
-[*.{md,markdown}]
-indent_style = space
-indent_size = 2
-tab_width = 2
-
-[*.{yml,yaml}]
+[*.{md,markdown,yml,yaml}]
 indent_style = space
 indent_size = 2
 tab_width = 2
